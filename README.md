@@ -62,7 +62,7 @@ UI框架：VantUI
 商品轮播图、商品信息、店铺信息的展示  
    
    
-   **商品参数**
+   **商品参数**  
    ![image](https://user-images.githubusercontent.com/71443910/129478499-1abf9309-523b-4ef3-8e5d-62fec20fbe09.png)  
      
       
